@@ -1,0 +1,4 @@
+data/mercadinho.sqlite
+data/mail_config.php
+uploads/*
+!uploads/.gitkeep
